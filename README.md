@@ -11,7 +11,7 @@ Split the data into training and testing sets
 Train a Linear Regression model and evaluate its performance (MSE, R2 score)
 Visualize the comparison between actual and predicted prices (scatter plot)
 
-How to Use
+How to Use:
 Place the BostonHousing.csv file with this project.
 Run the code in Python (make sure pandas, scikit-learn, and matplotlib are installed).
 After running the code, you will get the MSE and R2 scores for training and testing, along with a graph comparing the actual and predicted prices.
